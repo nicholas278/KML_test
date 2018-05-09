@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Resettlement Service Map</name>
+    <description/>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Resettlement Service Programs</name>
+      <Placemark>
+        <name>Association for New Canadians</name>
+        <address><![CDATA[144 Military Rd, St. John's, NF A1C 5R6]]></address>
+        <description><![CDATA[Full Address: 144 Military Rd, St. John's, NF A1C 5R6<br>Phone: 1-709-722-9680<br>Fax: <br>Generic Email Address for RAP SPO web page: settlement[at]nfld.net<br>Website: http://www.ancnl.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value><![CDATA[144 Military Rd, St. John's, NF A1C 5R6]]></value>
+          </Data>
+          <Data name="Phone">
+            <value>1-709-722-9680</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>settlement[at]nfld.net</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.ancnl.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Multicultural Association of Fredericton Inc. | Association Multiculturelle de Fredericton Inc.</name>
+        <address>28 Saunders Stret, Fredericton, NB E3B 1N1</address>
+        <description><![CDATA[Full Address: 28 Saunders Stret, Fredericton, NB E3B 1N1<br>Phone: 506-454-8292<br>Fax: <br>Generic Email Address for RAP SPO web page: mcaf[at]mcaf.nb.ca<br>Website: http://mcaf.nb.ca/en/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>28 Saunders Stret, Fredericton, NB E3B 1N1</value>
+          </Data>
+          <Data name="Phone">
+            <value>506-454-8292</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>mcaf[at]mcaf.nb.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://mcaf.nb.ca/en/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>YM/YWCA</name>
+        <address>130 Broadview Avenue, Saint John, NB E2L 5C5</address>
+        <description><![CDATA[Full Address: 130 Broadview Avenue, Saint John, NB E2L 5C5<br>Phone: 506-646-2389<br>Fax: 506-646-2388<br>Generic Email Address for RAP SPO web page: newcomerconnections[at]saintjohny.ca <br>Website: https://saintjohny.ymca.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>130 Broadview Avenue, Saint John, NB E2L 5C5</value>
+          </Data>
+          <Data name="Phone">
+            <value>506-646-2389</value>
+          </Data>
+          <Data name="Fax">
+            <value>506-646-2388</value>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>newcomerconnections[at]saintjohny.ca </value>
+          </Data>
+          <Data name="Website">
+            <value>https://saintjohny.ymca.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Multicultural Association of the Greater Moncton Area (MAGMA)</name>
+        <address>1299A Mountain Road, Suite 2, Moncton, NB E1C 2T9</address>
+        <description><![CDATA[Full Address: 1299A Mountain Road, Suite 2, Moncton, NB E1C 2T9<br>Phone: 1-506-858-9659<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]magma-amgm.org<br>Website: http://magma-amgm.org/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>1299A Mountain Road, Suite 2, Moncton, NB E1C 2T9</value>
+          </Data>
+          <Data name="Phone">
+            <value>1-506-858-9659</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]magma-amgm.org</value>
+          </Data>
+          <Data name="Website">
+            <value>http://magma-amgm.org/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PEI Association for Newcomers to Canada</name>
+        <address>49 Water Street, Charlottetown, PE C1A 8C4</address>
+        <description><![CDATA[Full Address: 49 Water Street, Charlottetown, PE C1A 8C4<br>Phone: 1-902-628-6009<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]peianc.com<br>Website: https://www.peianc.com/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>49 Water Street, Charlottetown, PE C1A 8C4</value>
+          </Data>
+          <Data name="Phone">
+            <value>1-902-628-6009</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]peianc.com</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.peianc.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Immigrant Services Association of Nova Scotia</name>
+        <address>2120-6960 Mumford Rd, Halifax, NS B3L 4P1</address>
+        <description><![CDATA[Full Address: 2120-6960 Mumford Rd, Halifax, NS B3L 4P1<br>Phone: 902-406-8634<br>Fax: 902-423-3154<br>Generic Email Address for RAP SPO web page: rap[at]isans.ca<br>Website: www.isans.ca]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>2120-6960 Mumford Rd, Halifax, NS B3L 4P1</value>
+          </Data>
+          <Data name="Phone">
+            <value>902-406-8634</value>
+          </Data>
+          <Data name="Fax">
+            <value>902-423-3154</value>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>rap[at]isans.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>www.isans.ca</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Catholic Centre for Immigration (Head Office)</name>
+        <address>219 Argyle Avenue, Ottawa, ON K2P 2H4</address>
+        <description><![CDATA[Full Address: 219 Argyle Avenue, Ottawa, ON K2P 2H4<br>Phone: 613-232-9634<br>Fax: 613-789-4338<br>Generic Email Address for RAP SPO web page: <br>Website: http://cciottawa.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>219 Argyle Avenue, Ottawa, ON K2P 2H4</value>
+          </Data>
+          <Data name="Phone">
+            <value>613-232-9634</value>
+          </Data>
+          <Data name="Fax">
+            <value>613-789-4338</value>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value>http://cciottawa.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Catholic Centre for Immigration (Reception Ctr)</name>
+        <address>204 Boteler Street, Ottawa, ON K1N 5A7</address>
+        <description><![CDATA[Full Address: 204 Boteler Street, Ottawa, ON K1N 5A7<br>Phone: 613-232-9634<br>Fax: 613-789-4338<br>Generic Email Address for RAP SPO web page: <br>Website: http://cciottawa.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>204 Boteler Street, Ottawa, ON K1N 5A7</value>
+          </Data>
+          <Data name="Phone">
+            <value>613-232-9634</value>
+          </Data>
+          <Data name="Fax">
+            <value>613-789-4338</value>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value>http://cciottawa.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Costi  (Reception Centre Address)</name>
+        <address>100 Lippincott Street, Toronto, ON M5S 2P1</address>
+        <description><![CDATA[Full Address: 100 Lippincott Street, Toronto, ON M5S 2P1<br>Phone: <br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]costi.org<br>Website: www.costi.org]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>100 Lippincott Street, Toronto, ON M5S 2P1</value>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]costi.org</value>
+          </Data>
+          <Data name="Website">
+            <value>www.costi.org</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>London Cross Cultural learner Centre</name>
+        <address>505 Dundas Street East, London, ON N6B 1W4</address>
+        <description><![CDATA[Full Address: 505 Dundas Street East, London, ON N6B 1W4<br>Phone: 519-432-1133<br>Fax: <br>Generic Email Address for RAP SPO web page:  cclc[at]lcclc.org<br>Website: www.lcclc.org]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>505 Dundas Street East, London, ON N6B 1W4</value>
+          </Data>
+          <Data name="Phone">
+            <value>519-432-1133</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value> cclc[at]lcclc.org</value>
+          </Data>
+          <Data name="Website">
+            <value>www.lcclc.org</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Reception House - Waterloo Region </name>
+        <address>101 David Street, Kitchener, ON N2G 1Y1</address>
+        <description><![CDATA[Full Address: 101 David Street, Kitchener, ON N2G 1Y1<br>Phone: 519 743-0445 x 12<br>Fax: <br>Generic Email Address for RAP SPO web page: admin[at]kwrcentre.ca<br>Website: receptionhouse.ca]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>101 David Street, Kitchener, ON N2G 1Y1</value>
+          </Data>
+          <Data name="Phone">
+            <value>519 743-0445 x 12</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>admin[at]kwrcentre.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>receptionhouse.ca</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Multicultural Council of Windsor and Essex County</name>
+        <address>245 Janette Avenue,  Windsor, ON N9A 4Z2</address>
+        <description><![CDATA[Full Address: 245 Janette Avenue,  Windsor, ON N9A 4Z2<br>Phone: 519-255-1127<br>Fax: <br>Generic Email Address for RAP SPO web page: welcome[at]themcc.com<br>Website: www.themcc.com]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>245 Janette Avenue,  Windsor, ON N9A 4Z2</value>
+          </Data>
+          <Data name="Phone">
+            <value>519-255-1127</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>welcome[at]themcc.com</value>
+          </Data>
+          <Data name="Website">
+            <value>www.themcc.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Wesley Urban Ministries</name>
+        <address>52 Catherine St. North, Hamilton, ON L8R 1J1</address>
+        <description><![CDATA[Full Address: 52 Catherine St. North, Hamilton, ON L8R 1J1<br>Phone: 905-528-5629<br>Fax: <br>Generic Email Address for RAP SPO web page: welcome[at]wesley.ca<br>Website: http://wesley.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>52 Catherine St. North, Hamilton, ON L8R 1J1</value>
+          </Data>
+          <Data name="Phone">
+            <value>905-528-5629</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>welcome[at]wesley.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://wesley.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The New Canadian Centre of Excellence - Leamington</name>
+        <address>206-660 Oulette Ave, Windsor, ON N9A 1C1</address>
+        <description><![CDATA[Full Address: 206-660 Oulette Ave, Windsor, ON N9A 1C1<br>Phone: 519-258-4076<br>Fax: <br>Generic Email Address for RAP SPO web page: <br>Website: http://www.ncceinc.org/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>206-660 Oulette Ave, Windsor, ON N9A 1C1</value>
+          </Data>
+          <Data name="Phone">
+            <value>519-258-4076</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value>http://www.ncceinc.org/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>New Canadians Centre Peterborough</name>
+        <address>221 Romaine Street, Peterborough, ON K9J 2C3</address>
+        <description><![CDATA[Full Address: 221 Romaine Street, Peterborough, ON K9J 2C3<br>Phone: 705-743-0882<br>Fax: <br>Generic Email Address for RAP SPO web page:  info[at]nccpeterborough.ca<br>Website: http://nccpeterborough.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>221 Romaine Street, Peterborough, ON K9J 2C3</value>
+          </Data>
+          <Data name="Phone">
+            <value>705-743-0882</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value> info[at]nccpeterborough.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://nccpeterborough.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Thunder Bay Multicultural Association</name>
+        <address>17 N. Court Street, Thunder Bay, ON P7A 4T4</address>
+        <description><![CDATA[Full Address: 17 N. Court Street, Thunder Bay, ON P7A 4T4<br>Phone: 1-866-831-1144<br>Fax: <br>Generic Email Address for RAP SPO web page: michellel[at]thunderbay.org<br>Website: http://www.thunderbay.org/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>17 N. Court Street, Thunder Bay, ON P7A 4T4</value>
+          </Data>
+          <Data name="Phone">
+            <value>1-866-831-1144</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>michellel[at]thunderbay.org</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.thunderbay.org/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Polycultural Immigrant and Community Services (PICS)</name>
+        <address>2420 Surveyor Rd., Mississauga, ON L5N 4E6</address>
+        <description><![CDATA[Full Address: 2420 Surveyor Rd., Mississauga, ON L5N 4E6<br>Phone: 905-403-8860 ext 5522<br>Fax: <br>Generic Email Address for RAP SPO web page: welcome[at]polycultural.org<br>Website: http://www.polycultural.org/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>2420 Surveyor Rd., Mississauga, ON L5N 4E6</value>
+          </Data>
+          <Data name="Phone">
+            <value>905-403-8860 ext 5522</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>welcome[at]polycultural.org</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.polycultural.org/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sault Community Information and Career Centre</name>
+        <address>503 Queens Street East, Sault Ste. Marie, ON P6A 2A2</address>
+        <description><![CDATA[Full Address: 503 Queens Street East, Sault Ste. Marie, ON P6A 2A2<br>Phone: 1-705-759-0909<br>Fax: <br>Generic Email Address for RAP SPO web page: <br>Website: http://www.saultcareercentre.ca]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>503 Queens Street East, Sault Ste. Marie, ON P6A 2A2</value>
+          </Data>
+          <Data name="Phone">
+            <value>1-705-759-0909</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value>http://www.saultcareercentre.ca</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kingston Employment and Youth Services (KEYS)</name>
+        <address>182 Sydenham Street, Kingston, ON K7K 3M2</address>
+        <description><![CDATA[Full Address: 182 Sydenham Street, Kingston, ON K7K 3M2<br>Phone: 1-613-546-5559<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]keys.ca<br>Website: www.keys.ca]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>182 Sydenham Street, Kingston, ON K7K 3M2</value>
+          </Data>
+          <Data name="Phone">
+            <value>1-613-546-5559</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]keys.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>www.keys.ca</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Malton Neighbourhood Services 
+(Immigrant Reception and Information Services - IRIS)</name>
+        <address>Terminal 1, 6301 Silver Dart Drive, Toronto, ON L5P 1B2</address>
+        <description><![CDATA[Full Address: Terminal 1, 6301 Silver Dart Drive, Toronto, ON L5P 1B2<br>Phone: 905-672-3660<br>Fax: <br>Generic Email Address for RAP SPO web page: mnsiris[at]mnsinfo.org<br>Website: www.mnsinfo.org]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>Terminal 1, 6301 Silver Dart Drive, Toronto, ON L5P 1B2</value>
+          </Data>
+          <Data name="Phone">
+            <value>905-672-3660</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>mnsiris[at]mnsinfo.org</value>
+          </Data>
+          <Data name="Website">
+            <value>www.mnsinfo.org</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Malton Neighbourhood Services 
+(Immigrant Reception and Information Services - IRIS)</name>
+        <address>3540 Morning Start Drive, Mississauga, ON L4T 1Y2</address>
+        <description><![CDATA[Full Address: 3540 Morning Start Drive, Mississauga, ON L4T 1Y2<br>Phone: 905-672-3660<br>Fax: <br>Generic Email Address for RAP SPO web page: mnsiris[at]mnsinfo.org<br>Website: www.mnsinfo.org]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>3540 Morning Start Drive, Mississauga, ON L4T 1Y2</value>
+          </Data>
+          <Data name="Phone">
+            <value>905-672-3660</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>mnsiris[at]mnsinfo.org</value>
+          </Data>
+          <Data name="Website">
+            <value>www.mnsinfo.org</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ACCUEIL FRANCOPHONE</name>
+        <address>190 Avenue de la Cathédrale, Saint-Boniface, MB R2H 0H7</address>
+        <description><![CDATA[Full Address: 190 Avenue de la Cathédrale, Saint-Boniface, MB R2H 0H7<br>Phone: 204 975-4250<br>Fax: <br>Generic Email Address for RAP SPO web page: bntambwe[at]sfm.mb.ca<br>Website: http://accueilfrancophonemb.com/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>190 Avenue de la Cathédrale, Saint-Boniface, MB R2H 0H7</value>
+          </Data>
+          <Data name="Phone">
+            <value>204 975-4250</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>bntambwe[at]sfm.mb.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://accueilfrancophonemb.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Manitoba Interfaith Immigration Council (MIIC)</name>
+        <address>521 Bannatyne Ave., Winnipeg, MB R3K 1G2</address>
+        <description><![CDATA[Full Address: 521 Bannatyne Ave., Winnipeg, MB R3K 1G2<br>Phone: 204-977-1000<br>Fax: <br>Generic Email Address for RAP SPO web page: sysadmin[at]miic.ca<br>Website: www.miic.ca]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>521 Bannatyne Ave., Winnipeg, MB R3K 1G2</value>
+          </Data>
+          <Data name="Phone">
+            <value>204-977-1000</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>sysadmin[at]miic.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>www.miic.ca</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Westman Immigrant Services (WIS)</name>
+        <address>1001 Pacific Ave, Brandon, MB R7A 0J2</address>
+        <description><![CDATA[Full Address: 1001 Pacific Ave, Brandon, MB R7A 0J2<br>Phone: 204-727-6031<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]westmanimmigrantservices.ca<br>Website: http://www.westmanimmigrantservices.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>1001 Pacific Ave, Brandon, MB R7A 0J2</value>
+          </Data>
+          <Data name="Phone">
+            <value>204-727-6031</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]westmanimmigrantservices.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.westmanimmigrantservices.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Catholic Social Services </name>
+        <address>8212 118 Avenue, Edmonton, AB T5B 0S3</address>
+        <description><![CDATA[Full Address: 8212 118 Avenue, Edmonton, AB T5B 0S3<br>Phone: 780-424-3545<br>Fax: <br>Generic Email Address for RAP SPO web page: jim.nguyen[at]cssalberta.ca<br>astrid.velasquez[at]cssalberta.ca<br>Website: https://www.cssalberta.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>8212 118 Avenue, Edmonton, AB T5B 0S3</value>
+          </Data>
+          <Data name="Phone">
+            <value>780-424-3545</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>jim.nguyen[at]cssalberta.ca
+astrid.velasquez[at]cssalberta.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.cssalberta.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Catholic Social Services</name>
+        <address>5104 - 48 Avenue, Red Deer, AB T4N 3T8</address>
+        <description><![CDATA[Full Address: 5104 - 48 Avenue, Red Deer, AB T4N 3T8<br>Phone: 403-346-8818<br>Fax: <br>Generic Email Address for RAP SPO web page: remza.mujexinovic[at]cssalberta.ca <br>anneke.lauwers[at]cssalberta.ca<br>Website: https://www.cssalberta.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>5104 - 48 Avenue, Red Deer, AB T4N 3T8</value>
+          </Data>
+          <Data name="Phone">
+            <value>403-346-8818</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>remza.mujexinovic[at]cssalberta.ca 
+anneke.lauwers[at]cssalberta.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.cssalberta.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lethbridge Family Services - Immigrant Services</name>
+        <address>1107 A Avenue North, Lethbridge, AB T1H 0E6</address>
+        <description><![CDATA[Full Address: 1107 A Avenue North, Lethbridge, AB T1H 0E6<br>Phone: 403-320-1589<br>Fax: <br>Generic Email Address for RAP SPO web page: lfsadmin[at]lfsfamily.ca<br>Website: www.lfsfamily.ca]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>1107 A Avenue North, Lethbridge, AB T1H 0E6</value>
+          </Data>
+          <Data name="Phone">
+            <value>403-320-1589</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>lfsadmin[at]lfsfamily.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>www.lfsfamily.ca</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Calgary Catholic Immigration Services</name>
+        <address>5th Floor, 111-11 Avenue SW, Calgary, AB T2R 0G5</address>
+        <description><![CDATA[Full Address: 5th Floor, 111-11 Avenue SW, Calgary, AB T2R 0G5<br>Phone: 403-262-2006<br>Fax: <br>Generic Email Address for RAP SPO web page: contact [at]ccisab.ca<br>Website: https://www.ccisab.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>5th Floor, 111-11 Avenue SW, Calgary, AB T2R 0G5</value>
+          </Data>
+          <Data name="Phone">
+            <value>403-262-2006</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>contact [at]ccisab.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.ccisab.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>BCIS-Brooks</name>
+        <address>500 Cassils Rd E, Brooks, AB T1R 1M6</address>
+        <description><![CDATA[Full Address: 500 Cassils Rd E, Brooks, AB T1R 1M6<br>Phone: 403-362-0404<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]bcis-brooks.ca<br>Website: http://bcis-brooks.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>500 Cassils Rd E, Brooks, AB T1R 1M6</value>
+          </Data>
+          <Data name="Phone">
+            <value>403-362-0404</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]bcis-brooks.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://bcis-brooks.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Saamis Immigration Services Association</name>
+        <address>659-3rd St SE, Medicine Hat, AB T1A 5T6</address>
+        <description><![CDATA[Full Address: 659-3rd St SE, Medicine Hat, AB T1A 5T6<br>Phone: 403-504-1188<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]saamisimmigration.ca<br>Website: http://www.saamisimmigration.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>659-3rd St SE, Medicine Hat, AB T1A 5T6</value>
+          </Data>
+          <Data name="Phone">
+            <value>403-504-1188</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]saamisimmigration.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.saamisimmigration.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Immigrant Services Society of BC (ISSofBC)</name>
+        <address>2610 Victoria Dr., Vancouver, BC V5N 4L2</address>
+        <description><![CDATA[Full Address: 2610 Victoria Dr., Vancouver, BC V5N 4L2<br>Phone: 604-684-7498<br>Fax: <br>Generic Email Address for RAP SPO web page: welcome[at]issbc.org<br>Website: https://issbc.org/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>2610 Victoria Dr., Vancouver, BC V5N 4L2</value>
+          </Data>
+          <Data name="Phone">
+            <value>604-684-7498</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>welcome[at]issbc.org</value>
+          </Data>
+          <Data name="Website">
+            <value>https://issbc.org/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Inter-Cultural Association of Greater Victoria (ICA)</name>
+        <address>930 Balmoral Rd., Victoria, BC V8T 1A8</address>
+        <description><![CDATA[Full Address: 930 Balmoral Rd., Victoria, BC V8T 1A8<br>Phone: 250-388-4728<br>Fax: <br>Generic Email Address for RAP SPO web page: welcome[at]icavictoria.org<br>Website: https://www.icavictoria.org]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>930 Balmoral Rd., Victoria, BC V8T 1A8</value>
+          </Data>
+          <Data name="Phone">
+            <value>250-388-4728</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>welcome[at]icavictoria.org</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.icavictoria.org</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>KCR -  Community Resources</name>
+        <address>620 Leon Avenue,  Kelowna, BC V1Y 9T2</address>
+        <description><![CDATA[Full Address: 620 Leon Avenue,  Kelowna, BC V1Y 9T2<br>Phone: 250-763-8008<br>Fax: <br>Generic Email Address for RAP SPO web page: Immigrantservices[at]kcr.ca<br>Website: https://kcr.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>620 Leon Avenue,  Kelowna, BC V1Y 9T2</value>
+          </Data>
+          <Data name="Phone">
+            <value>250-763-8008</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>Immigrantservices[at]kcr.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>https://kcr.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Accueil et intégration B.S.L (AIBSL).</name>
+        <address>300,allee des Ursulines, local D-014, Rimouski, QC G5L 3A1</address>
+        <description><![CDATA[Full Address: 300,allee des Ursulines, local D-014, Rimouski, QC G5L 3A1<br>Phone: 418-723-1986 poste 1595<br>Fax: <br>Generic Email Address for RAP SPO web page: bntambwe[at]sfm.mb.ca<br>Website: http://aibsl.org/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>300,allee des Ursulines, local D-014, Rimouski, QC G5L 3A1</value>
+          </Data>
+          <Data name="Phone">
+            <value>418-723-1986 poste 1595</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>bntambwe[at]sfm.mb.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://aibsl.org/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Centre multiethnique du Québec (CMQ)</name>
+        <address>200 Rue Dorchester, Québec, QC G1K 5Z1</address>
+        <description><![CDATA[Full Address: 200 Rue Dorchester, Québec, QC G1K 5Z1<br>Phone: 418-687-9771<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]centremultiethnique.com<br>Website: https://www.centremultiethnique.com/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>200 Rue Dorchester, Québec, QC G1K 5Z1</value>
+          </Data>
+          <Data name="Phone">
+            <value>418-687-9771</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]centremultiethnique.com</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.centremultiethnique.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Service d'accueil des nouveaux arrivants (SANA)]]></name>
+        <address>1322, rue Sainte-Julie, Trois-Rivières, QC G9A 1Y6</address>
+        <description><![CDATA[Full Address: 1322, rue Sainte-Julie, Trois-Rivières, QC G9A 1Y6<br>Phone: 819-375-2196<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]sana3r.ca<br>Website: https://sana3r.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>1322, rue Sainte-Julie, Trois-Rivières, QC G9A 1Y6</value>
+          </Data>
+          <Data name="Phone">
+            <value>819-375-2196</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]sana3r.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>https://sana3r.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Comité d'accueil international des Bois-Francs]]></name>
+        <address>59, rue Monfette, bureau 246, Victoriaville, QC G6P 1J8</address>
+        <description><![CDATA[Full Address: 59, rue Monfette, bureau 246, Victoriaville, QC G6P 1J8<br>Phone: 819-795-3814<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]caibf.ca <br>Website: http://www.caibf.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>59, rue Monfette, bureau 246, Victoriaville, QC G6P 1J8</value>
+          </Data>
+          <Data name="Phone">
+            <value>819-795-3814</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]caibf.ca </value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.caibf.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Regroupement interculturel de Drummond (RID)</name>
+        <address>511 Rue Lindsay, Drummondville, QC J2B 1H5</address>
+        <description><![CDATA[Full Address: 511 Rue Lindsay, Drummondville, QC J2B 1H5<br>Phone: 819-472-8333<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]riddrummondville.ca<br>Website: http://www.riddrummondville.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>511 Rue Lindsay, Drummondville, QC J2B 1H5</value>
+          </Data>
+          <Data name="Phone">
+            <value>819-472-8333</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]riddrummondville.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.riddrummondville.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Service d'aide aux néo-Canadiens (SANC)]]></name>
+        <address>535, rue Short, Sherbrooke, QC J1H 2E6</address>
+        <description><![CDATA[Full Address: 535, rue Short, Sherbrooke, QC J1H 2E6<br>Phone: 819-566-5373<br>Fax: <br>Generic Email Address for RAP SPO web page: sanc[at]sanc-sherbrooke.ca<br>Website: https://www.sanc-sherbrooke.ca/nous]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>535, rue Short, Sherbrooke, QC J1H 2E6</value>
+          </Data>
+          <Data name="Phone">
+            <value>819-566-5373</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>sanc[at]sanc-sherbrooke.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.sanc-sherbrooke.ca/nous</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Centre social d'aide aux immigrants (CSAI)]]></name>
+        <address>6201, rue Laurendeau, Montreal, QC H4E 3X8</address>
+        <description><![CDATA[Full Address: 6201, rue Laurendeau, Montreal, QC H4E 3X8<br>Phone: 514-932-2953<br>Fax: <br>Generic Email Address for RAP SPO web page: <br>Website: http://centrecsai.org/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>6201, rue Laurendeau, Montreal, QC H4E 3X8</value>
+          </Data>
+          <Data name="Phone">
+            <value>514-932-2953</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value>http://centrecsai.org/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Accueil parrainage Outaouais</name>
+        <address><![CDATA[124, rue Jeanne-d'Arc, Gatinneau, QC J8Y 2H7]]></address>
+        <description><![CDATA[Full Address: 124, rue Jeanne-d'Arc, Gatinneau, QC J8Y 2H7<br>Phone: 819-777-2960<br>Fax: <br>Generic Email Address for RAP SPO web page: direction[at]apo-qc.org<br>Website: http://www.apo-qc.org]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value><![CDATA[124, rue Jeanne-d'Arc, Gatinneau, QC J8Y 2H7]]></value>
+          </Data>
+          <Data name="Phone">
+            <value>819-777-2960</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>direction[at]apo-qc.org</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.apo-qc.org</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Carrefour d'intercultures de Laval]]></name>
+        <address>3200, chemin du Souvenir, bureau D-128,  Laval, QC H7V 1W9</address>
+        <description><![CDATA[Full Address: 3200, chemin du Souvenir, bureau D-128,  Laval, QC H7V 1W9<br>Phone: 450-686-0554<br>Fax: <br>Generic Email Address for RAP SPO web page: <br>Website: https://www.carrefourintercultures.com]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>3200, chemin du Souvenir, bureau D-128,  Laval, QC H7V 1W9</value>
+          </Data>
+          <Data name="Phone">
+            <value>450-686-0554</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value>https://www.carrefourintercultures.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Comité régional d'éducation pour le développement international de Lanaudière (CRÉDIL)]]></name>
+        <address>101 Rue Dugas, Joliette, QC J6E 4G7</address>
+        <description><![CDATA[Full Address: 101 Rue Dugas, Joliette, QC J6E 4G7<br>Phone: 450-756-0011<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]credil.qc.ca<br>Website: www.credil.qc.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>101 Rue Dugas, Joliette, QC J6E 4G7</value>
+          </Data>
+          <Data name="Phone">
+            <value>450-756-0011</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]credil.qc.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>www.credil.qc.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Centre d'orientation et de formation favorisant
+les relations ethniques traditionnelles (C.O.F.F.R.E.T)]]></name>
+        <address>181, rue Brière, Saint-Jerome, QC J7Y 3A7</address>
+        <description><![CDATA[Full Address: 181, rue Brière, Saint-Jerome, QC J7Y 3A7<br>Phone: 450-565-2998<br>Fax: <br>Generic Email Address for RAP SPO web page: message[at]lecoffret.ca<br>Website: http://www.lecoffret.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>181, rue Brière, Saint-Jerome, QC J7Y 3A7</value>
+          </Data>
+          <Data name="Phone">
+            <value>450-565-2998</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>message[at]lecoffret.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.lecoffret.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Maison de la famille des Maskoutains</name>
+        <address>2236, rue Lamothe, Saint-Hyacinthe, QC J2S 4K2</address>
+        <description><![CDATA[Full Address: 2236, rue Lamothe, Saint-Hyacinthe, QC J2S 4K2<br>Phone: 450-771-4010<br>Fax: <br>Generic Email Address for RAP SPO web page: accueil[at]mfm.qc.ca<br>Website: www.mfm.qc.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>2236, rue Lamothe, Saint-Hyacinthe, QC J2S 4K2</value>
+          </Data>
+          <Data name="Phone">
+            <value>450-771-4010</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>accueil[at]mfm.qc.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>www.mfm.qc.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Maison internationale de la Rive-Sud (MIRS)</name>
+        <address>2152, boul. Lapinière Bureau 220, Brossard, QC J4W 1L9</address>
+        <description><![CDATA[Full Address: 2152, boul. Lapinière Bureau 220, Brossard, QC J4W 1L9<br>Phone: 450-445-8777<br>Fax: <br>Generic Email Address for RAP SPO web page: info[at]mirs.qc.ca<br>Website: http://www.mirs.qc.ca/]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>2152, boul. Lapinière Bureau 220, Brossard, QC J4W 1L9</value>
+          </Data>
+          <Data name="Phone">
+            <value>450-445-8777</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value>info[at]mirs.qc.ca</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.mirs.qc.ca/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Solidarité ethnique régionale de la Yamaska (SERY)</name>
+        <address>369 Rue Saint Jacques,  Granby, QC J2G 3N5</address>
+        <description><![CDATA[Full Address: 369 Rue Saint Jacques,  Granby, QC J2G 3N5<br>Phone: 450-777-7213<br>Fax: <br>Generic Email Address for RAP SPO web page: <br>Website: sery-granby.org]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Full Address">
+            <value>369 Rue Saint Jacques,  Granby, QC J2G 3N5</value>
+          </Data>
+          <Data name="Phone">
+            <value>450-777-7213</value>
+          </Data>
+          <Data name="Fax">
+            <value/>
+          </Data>
+          <Data name="Generic Email Address for RAP SPO web page">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value>sery-granby.org</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
